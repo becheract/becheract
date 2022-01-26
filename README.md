@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React and Angular
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with node.js
-- 💬 Ask me about who was in paris
+- 📠 React > Angular
 - 📫 How to reach me: Twitter: https://twitter.com/Bechera2 
 - LinkedIn: https://www.linkedin.com/in/bechera-chapman-tremblay-49b22b199/ 
 - StackOverflow:https://stackoverflow.com/users/16129990/bechera
