@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on completing my full-stack web developer program.
 - 🌱 I’m currently learning React and Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with node.js
+- 👯 Currently working on a React project
+- 🤔 I’m looking for who asked?
 - 📠 React > Angular
 - 📫 How to reach me: Twitter: https://twitter.com/Bechera2 
 - LinkedIn: https://www.linkedin.com/in/bechera-chapman-tremblay-49b22b199/ 
