@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on completing my full-stack web developer program.
-- 🌱 I’m currently learning React and Angular
+- 🔭 I’m a full-stack web developer.
+- 🌱 I’m currently learning Next.js and TypeScript
 - 👯 Currently working on a React project
 - 🤔 I’m always trying to improve myself
 - 📠 React > Angular
