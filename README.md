@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m a full-stack web developer.
-- 🌱 I’m currently learning Next.js and TypeScript
+- 🌱 I’m currently learning AWS
 - 👯 Currently working on a React project
 - 🤔 I’m always trying to improve myself
 - 📠 React > Angular
